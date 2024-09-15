@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Nimesh Baidhya
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Here are some of my Projects:
+[[Hongshi; public page]]
