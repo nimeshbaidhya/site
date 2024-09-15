@@ -1,6 +1,6 @@
 ---
 Type: "[[Character]]"
-Title: Wizard
+title: Wizard
 ---
 I had a real fun developing this character.
 
