@@ -5,6 +5,10 @@ title: Welcome to my site
 
 
 
-Here are some of my Projects:
+Here are some of the projects I have worked on:
 
-[[Hongshi]]
+### [[hongshi_site]]
+![[unkxeymw_dhaami.jpg]]
+
+### [[churpi_site|Churpi]]
+![[frame_ghost.jpg]]
