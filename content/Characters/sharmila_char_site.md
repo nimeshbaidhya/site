@@ -1,0 +1,11 @@
+---
+Type: "[[character_site]]"
+title: Sharmila
+---
+
+![[bowjupyj_sharmila_texture_v001_001.jpg]]
+![[bowjupyj_sharmila_texture_v001_002.jpg]]
+![[bowjupyj_sharmila_texture_v001_003.jpg]]
+![[bowjupyj_sharmila_texture_v001_004.jpg]]
+![[bowjupyj_sharmila_texture_v001_005.jpg]]
+![[bowjupyj_sharmila_texture_v001_006.jpg]]
