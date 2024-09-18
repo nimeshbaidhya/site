@@ -1,6 +1,8 @@
 ---
 Type: "[[character_site]]"
 title: Sharmila
+tags:
+  - character
 ---
 
 ![[bowjupyj_sharmila_texture_v001_001.jpg]]

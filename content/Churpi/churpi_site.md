@@ -1,10 +1,12 @@
 ---
 Type: "[[Project- public]]"
 title: Churpi
+tags:
+  - character
 ---
 ![[churpi_site_cover.jpg]]
 
-Some of the work I did for the Churpi TVC. It includes a character and various props and environment assets. 
+Some of the work I did for the Churpi TVC. It includes a character, various props and environment assets. 
 
 ## Ant
 More [[ant_char_site|inside]]

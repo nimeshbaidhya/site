@@ -2,12 +2,15 @@
 Type: "[[Project- public]]"
 title: Hongshi
 ---
-## [[wizard_site|Wizard Character]]
+## Wizard Character
+Progress and more images [[wizard_site|inside]]
 ![[unkxeymw_dhaami.jpg]]
 
-## [[golem_site|Golem Character]]
+## Golem Character
+Look more [[golem_site|inside]]
 ![[znnfaudr_golem.jpg]]
 
 
 ## Monument
 See [[wdefdjzm_hongshi_monument_site|here]] for more
+![[wdefdjzm_hongshi_monument.jpg]]
