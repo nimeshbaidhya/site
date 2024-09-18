@@ -12,7 +12,7 @@ Here are some of the projects I have worked on:
 
 
 ## [[churpi_site|Churpi]]
-![[frame_ghost.jpg]]
+![[churpi_site_cover.jpg]]
 
 
 ## [[fwld_site|FWLD]]
