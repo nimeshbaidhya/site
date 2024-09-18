@@ -1,7 +1,7 @@
 ---
 title: Twig
 tags:
-  - props
+  - Prop
 ---
 
 ![[vpsseold_twigLog_texture_v002_t001.jpg]]

@@ -1,6 +1,8 @@
 ---
 Type: "[[Project- public]]"
 title: Hongshi
+tags:
+  - Project
 ---
 ## Wizard Character
 Progress and more images [[wizard_site|inside]]

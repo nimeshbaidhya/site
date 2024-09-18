@@ -1,7 +1,7 @@
 ---
 title: Cart
 tags:
-  - props
+  - Prop
 ---
 ![[cart_texture_v001_t013_002.jpg]]
 

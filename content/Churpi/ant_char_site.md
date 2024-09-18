@@ -1,6 +1,8 @@
 ---
 Type: "[[character_site]]"
 title: Ant
+tags:
+  - Character
 ---
 I was responsible for modelling and texturing of this character.
 

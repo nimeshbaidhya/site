@@ -2,7 +2,7 @@
 Type: "[[Project- public]]"
 title: Churpi
 tags:
-  - character
+  - Project
 ---
 ![[churpi_site_cover.jpg]]
 
