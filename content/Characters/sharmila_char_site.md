@@ -9,3 +9,5 @@ title: Sharmila
 ![[bowjupyj_sharmila_texture_v001_004.jpg]]
 ![[bowjupyj_sharmila_texture_v001_005.jpg]]
 ![[bowjupyj_sharmila_texture_v001_006.jpg]]
+
+Screenshot during modelling process![[bowjupyj_model_brow.jpg]]

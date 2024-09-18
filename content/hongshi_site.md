@@ -9,3 +9,5 @@ title: Hongshi
 ![[znnfaudr_golem.jpg]]
 
 
+## Monument
+See [[hongshi_monument_site|here]] for more
