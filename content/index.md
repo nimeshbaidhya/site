@@ -15,5 +15,5 @@ Here are some of the projects I have worked on:
 ![[frame_ghost.jpg]]
 
 
-## [[sharmila_char_site|Sharmila]]
+## [[fwld_site|FWLD]]
 ![[bowjupyj_sharmila_texture_v001_001.jpg]]
