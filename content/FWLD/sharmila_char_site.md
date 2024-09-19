@@ -3,6 +3,7 @@ Type: "[[character_site]]"
 title: Sharmila
 tags:
   - Character
+date :2023-01-01
 ---
 
 ![[bowjupyj_sharmila_texture_v001_001.jpg]]

@@ -1,13 +1,22 @@
 ---
 Type: "[[Project- public]]"
 title: Racetrack
+date :2021-05-01
 ---
 I was resposible for asset creation, layout and design. #Houdini, #Unity were the main tools used in the project.
-## Karnali
-![](https://youtu.be/7AvyHAvR56w)
-Dive deeper [[karnali_track_site|here]] to see the process
 
-## Ilam
-Dive deeper [[karnali_track_site|here]] to see the process
+## Racetrack
+<iframe src="https://drive.google.com/file/d/1zrErIkO35MLXS67hww-EYoHMXbbrnPyy/preview" width="640" height="400" allow="autoplay"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1E5Ho2IKOgsf3FzLguGc9eP9BRi_f5PGM/preview" width="640" height="400" allow="autoplay"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1itHe9IVmqHApx656mN891I6ZwgOpVTkt/preview" width="640" height="400" allow="autoplay"></iframe>
+
+
+All the rocks and trees were procedurally placed here on the terrain using Houdini and Houdini Engine for Unity.
+<iframe src="https://drive.google.com/file/d/12C7e1UCRE-6STtyeYPXJl7y9WwTKoMYF/preview" width="640" height="400" allow="autoplay"></iframe>
+
+<iframe src="https://drive.google.com/file/d/1JesuAPGFcsK2ySoFoBPITN0GrrWEAqDB/preview" width="640" height="400" allow="autoplay"></iframe>
+
 
 

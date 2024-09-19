@@ -2,5 +2,6 @@
 title: Karnali
 tags:
   - Environment
+draft: true
 ---
-![](https://youtu.be/7AvyHAvR56w)
+
