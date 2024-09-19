@@ -3,7 +3,7 @@ Type: "[[Project- public]]"
 title: Hongshi
 tags:
   - Project
-date :2021-06-01
+date : 2021-06-01
 ---
 ## Wizard Character
 Progress and more images [[wizard_site|inside]]

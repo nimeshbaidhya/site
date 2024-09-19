@@ -3,7 +3,7 @@ Type: "[[character_site]]"
 title: Ant
 tags:
   - Character
-date :2021-01-01
+date : 2021-01-01
 ---
 I was responsible for modelling and texturing of this character.
 

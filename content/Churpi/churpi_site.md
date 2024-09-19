@@ -3,7 +3,7 @@ Type: "[[Project- public]]"
 title: Churpi
 tags:
   - Project
-date :2021-01-01
+date : 2021-01-01
 ---
 ![[churpi_site_cover.jpg]]
 

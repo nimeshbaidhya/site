@@ -1,7 +1,5 @@
 ---
-Type: "[[Project- public]]"
-title: Racetrack
-date :2021-05-01
+date: 2022-05-10
 ---
 I was resposible for asset creation, layout and design. #Houdini, #Unity were the main tools used in the project.
 
