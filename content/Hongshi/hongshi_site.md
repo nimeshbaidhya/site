@@ -3,7 +3,7 @@ Type: "[[Project- public]]"
 title: Hongshi
 tags:
   - Project
-date : 2021-06-01
+date : 2022-06-01
 ---
 ## Wizard Character
 Progress and more images [[wizard_site|inside]]
@@ -19,3 +19,6 @@ See [[wdefdjzm_hongshi_monument_site|here]] for more
 ![[wdefdjzm_hongshi_monument.jpg]]
 
 
+## Quarry
+See [[odgozqut_quarry_site|here]] for more
+![[odgozqut_quarry_v006_t009_002.jpg]]

@@ -3,7 +3,7 @@ Type:
 title: Quarry
 tags:
   - Environment
-date : 2021-06-01
+date : 2022-06-01
 ---
 ![[odgozqut_quarry_v006_t009_001.jpg]]
 

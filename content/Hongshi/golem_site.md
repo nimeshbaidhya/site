@@ -3,7 +3,7 @@ Type: "[[Asset]]"
 title: Golem
 tags:
   - Character
-date : 2021-06-01
+date : 2022-06-01
 ---
 
 

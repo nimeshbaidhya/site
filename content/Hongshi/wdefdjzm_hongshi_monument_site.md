@@ -1,7 +1,7 @@
 ---
 Type: 
 title: Monument
-date: 2020-02-10
+date : 2022-06-01
 ---
 I was responsible for the lion, the scaffolding, the base of the monument.
 ![[wdefdjzm_hongshi_monument.jpg]]
