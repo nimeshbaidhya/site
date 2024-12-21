@@ -10,13 +10,26 @@ date : 2021-01-01
 Some of the work I did for the Churpi TVC. It includes a character, various props and environment assets. 
 
 ## Ant
-More [[ant_char_site|inside]]
+Character in the final shot.
+![[hntfewyj_shot.jpg]]
+
+Asset turnaround
 ![[hntfewyj_ant.jpg]]
 
+Concept to texture
+![[bydhuroh_char.jpg]]
+
+Additional character props
+![[bydhuroh_glasses_front_001.jpg]]
+
+
+
 ## Cart
-More [[cart_site|inside]]
 ![[cart_texture_v001_t013_002.jpg]]
 
-## Twig
-See [[twiglog_site|here]] for more
+![[cart_texture_v001_t013_016.jpg]]
+
+### Twig
+
 ![[vpsseold_twigLog_texture_v002_t001.jpg]]
+![[vpsseold_twigLog_wireUV.jpg]]

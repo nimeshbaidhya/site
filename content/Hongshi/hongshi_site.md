@@ -5,20 +5,30 @@ tags:
   - Project
 date : 2022-06-01
 ---
+Some of the characters and environment I worked on for the project.
 ## Wizard Character
-Progress and more images [[wizard_site|inside]]
 ![[unkxeymw_dhaami.jpg]]
 
 ## Golem Character
-Look more [[golem_site|inside]]
+Modelled in zbrush.
 ![[znnfaudr_golem.jpg]]
 
+![[znnfaudr_golem_anim.gif]]
 
 ## Monument
-See [[wdefdjzm_hongshi_monument_site|here]] for more
+I was responsible for the lion, the scaffolding, the base of the monument.
 ![[wdefdjzm_hongshi_monument.jpg]]
+
+![[wdefdjzm_monument_v004_002.jpg]]
+
+![[wdefdjzm_monument_v004_003.jpg]]
+
+![[wdefdjzm_monument_v004_004.jpg]]
 
 
 ## Quarry
-See [[odgozqut_quarry_site|here]] for more
+![[odgozqut_quarry_v006_t009_001.jpg]]
+
 ![[odgozqut_quarry_v006_t009_002.jpg]]
+
+![[odgozqut_quarry_v006_t009_003.jpg]]
