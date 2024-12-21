@@ -6,6 +6,7 @@ tags:
 date : 2023-01-01
 ---
 ## Sharmila
+#Character
 
 ![[bowjupyj_sharmila_texture_v001_001.jpg]]
 ![[bowjupyj_sharmila_texture_v001_002.jpg]]
