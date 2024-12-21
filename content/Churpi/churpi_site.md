@@ -29,6 +29,6 @@ Additional character props
 
 ![[cart_texture_v001_t013_016.jpg]]
 
-## Twig
+# Twig
 ![[vpsseold_twigLog_texture_v002_t001.jpg]]
 ![[vpsseold_twigLog_wireUV.jpg]]
