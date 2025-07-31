@@ -16,7 +16,7 @@ Some of the work I did for the Churpi TVC. It includes a character, various prop
 Asset turnaround
 ![[hntfewyj_ant.jpg]]
 
-Concept to texture
+Concept to modeling to texture
 ![[bydhuroh_char.jpg]]
 
 Additional character props
