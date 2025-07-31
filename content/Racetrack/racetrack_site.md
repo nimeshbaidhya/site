@@ -2,7 +2,7 @@
 date: 2022-05-10
 title: Racetrack
 ---
-I was resposible for asset creation, layout and design. #Houdini, #Unity were the main tools used in the project.
+I was responsible for asset creation, layout and design. #Houdini, #Unity were the main tools used in the project.
 
 ## Racetrack
 <iframe src="https://drive.google.com/file/d/1zrErIkO35MLXS67hww-EYoHMXbbrnPyy/preview" width="100%" height="400" allow="autoplay"></iframe>
