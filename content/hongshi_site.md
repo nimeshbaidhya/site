@@ -1,15 +1,13 @@
 ---
 Type: "[[Project- public]]"
 title: Hongshi
-tags:
-  - Project
-date : 2022-06-01
+date: 2022-06-01
 ---
 Some of the characters and environment I worked on for the project.
-## Wizard Character
+## Wizard [[Character]]
 ![[unkxeymw_dhaami.jpg]]
 
-## Golem Character
+## Golem [[Character]]
 Modelled in zbrush.
 ![[znnfaudr_golem.jpg]]
 

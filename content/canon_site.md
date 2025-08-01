@@ -1,11 +1,9 @@
 ---
 Type: 
 title: Canon
-tags:
-  - Prop
 date: 2022-05-29
 ---
-
+This [[prop]] was done in Houdini, Substance Painter and Marmoset Toolbag.
 ![[vbaiybtn_001.jpg]]
 
 ![[vbaiybtn_002.jpg]]
