@@ -8,7 +8,7 @@ date: 2021-01-01
 Some of the works I did for the Churpi TVC. It includes a character, various props and environment assets. 
 
 # Ant
-The [[character]] in the final shot.
+The [[Character|character]] in the final shot.
 ![[hntfewyj_shot.jpg]]
 
 Asset turnaround

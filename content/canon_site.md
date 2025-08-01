@@ -3,7 +3,7 @@ Type:
 title: Canon
 date: 2022-05-29
 ---
-This [[prop]] was done in Houdini, Substance Painter and Marmoset Toolbag.
+This [[Prop|prop]] was done in Houdini, Substance Painter and Marmoset Toolbag.
 ![[vbaiybtn_001.jpg]]
 
 ![[vbaiybtn_002.jpg]]

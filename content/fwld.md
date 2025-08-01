@@ -6,7 +6,7 @@ tags:
 date : 2023-01-01
 ---
 ## Sharmila
-The [[character]] in the texturing process
+The [[Character|character]] in the texturing process
 
 ![[bowjupyj_sharmila_texture_v001_001.jpg]]
 ![[bowjupyj_sharmila_texture_v001_002.jpg]]
