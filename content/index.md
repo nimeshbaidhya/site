@@ -10,7 +10,7 @@ Progress and more images [[hongshi_site|inside]]
 ![[unkxeymw_dhaami.jpg]]
 
 ## FWLD
-More screenshots are [[fwld_site|inside]]
+More screenshots are [[fwld|inside]]
 ![[bowjupyj_sharmila_texture_v001_001.jpg]]
 
 ## Canon
