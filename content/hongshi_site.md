@@ -4,10 +4,10 @@ title: Hongshi
 date: 2022-06-01
 ---
 Some of the characters and environment I worked on for the project.
-## Wizard [[character]]
+## Wizard [[Character]]
 ![[unkxeymw_dhaami.jpg]]
 
-## Golem [[character]]
+## Golem [[Character]]
 Modelled in zbrush.
 ![[znnfaudr_golem.jpg]]
 

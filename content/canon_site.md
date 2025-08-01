@@ -8,6 +8,7 @@ This [[prop]] was done in Houdini, Substance Painter and Marmoset Toolbag.
 
 ![[vbaiybtn_002.jpg]]
 
+Clay renders
 ![[vbaiybtn_003.jpg]]
 
 ![[vbaiybtn_004.jpg]]

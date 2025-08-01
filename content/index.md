@@ -1,6 +1,8 @@
 ---
-title: Welcome to my site
+title: Welcome!
 ---
+Listed below are some of the projects that I have contributed to.
+
 ## Churpi
 More [[churpi_site|inside]]
 ![[hntfewyj_shot.jpg]]

@@ -5,7 +5,7 @@ date: 2021-01-01
 ---
 ![[churpi_site_cover.jpg]]
 
-Some of the work I did for the Churpi TVC. It includes a character, various props and environment assets. 
+Some of the works I did for the Churpi TVC. It includes a character, various props and environment assets. 
 
 # Ant
 The [[character]] in the final shot.
