@@ -1,11 +1,3 @@
----
-Type: "[[Project- public]]"
-title: FWLD
-tags:
-  - Project
-date : 2023-01-01
----
-## Sharmila
 The [[Character|character]] in the texturing process
 
 ![[bowjupyj_sharmila_texture_v001_001.jpg]]
