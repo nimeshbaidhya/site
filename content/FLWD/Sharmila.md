@@ -1,4 +1,4 @@
-The [[Character|character]] in the texturing process
+The character in the texturing process
 
 ![[bowjupyj_sharmila_texture_v001_001.jpg]]
 ![[bowjupyj_sharmila_texture_v001_002.jpg]]
