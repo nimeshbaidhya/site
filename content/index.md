@@ -1,14 +1,22 @@
 ---
 title: Welcome!
 ---
-Listed below are some of the projects that I have contributed to.
+## [[Character|Characters]]
+![[WebCover_char.jpg]]
 
-## [[Churpi]]
+## [[Environment|Environments]]
+![[wdefdjzm_hongshi_monument.jpg]]
+
+
+
+---
+
+Listed below are some of the [[Project|projects]] that I have contributed to for quick reference:
+### [[Churpi]]
 ![[hntfewyj_shot.jpg]]
 
-## [[Hongshi]]
+### [[Hongshi]]
 ![[unkxeymw_dhaami.jpg]]
 
-
-## [[FWLD]]
+### [[FWLD]]
 ![[Sharmila shot 001.webp]]
