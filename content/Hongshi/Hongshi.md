@@ -15,3 +15,4 @@ Some of the characters and environment I worked on for the project.
 
 
 ## [[Quarry]]
+![[odgozqut_quarry_v006_t009_001.jpg]]

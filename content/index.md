@@ -3,23 +3,12 @@ title: Welcome!
 ---
 Listed below are some of the projects that I have contributed to.
 
-## Churpi
-More [[Churpi|inside]]
+## [[Churpi]]
 ![[hntfewyj_shot.jpg]]
 
-## Hongshi
-Progress and more images [[Hongshi|inside]]
+## [[Hongshi]]
 ![[unkxeymw_dhaami.jpg]]
 
-## FWLD
-More screenshots are [[FWLD|inside]]
-![[content/FLWD/bowjupyj_sharmila_texture_v001_001.jpg]]
 
-## Canon
-See [[Canon|here]] for more
-![[vbaiybtn_001.jpg]]
-
-## Racetrack
-See [[racetrack|here]] for more
-<iframe src="https://drive.google.com/file/d/1E5Ho2IKOgsf3FzLguGc9eP9BRi_f5PGM/preview" width="100%" height="400" allow="autoplay"></iframe>
-
+## [[FWLD]]
+![[Sharmila shot 001.webp]]

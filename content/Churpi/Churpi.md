@@ -13,4 +13,4 @@ Some of the works I did for the Churpi TVC. It includes a character, various pro
 # [[Cart]]
 ![[cart_texture_v001_t013_002.jpg]]
 # [[Twig]]
-[[public/vpsseold_twigLog_texture_v002_t001.jpg]]
+![[vpsseold_twigLog_texture_v002_t001.jpg]]
