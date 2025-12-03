@@ -12,12 +12,6 @@ Modelled in Zbrush and Houdini
 ### Texturing
 The character was  textured in Substance Painter
 
-
-|                                             |                                             |
-| ------------------------------------------- | ------------------------------------------- |
-| ![[bowjupyj_sharmila_texture_v001_002.jpg]] | ![[bowjupyj_sharmila_texture_v001_002.jpg]] |
-
-
 ![[bowjupyj_sharmila_texture_v001_002.jpg]]
 ![[bowjupyj_sharmila_texture_v001_001.jpg]]
 ![[bowjupyj_sharmila_texture_v001_003.jpg]]
