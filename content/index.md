@@ -11,7 +11,8 @@ title: Welcome!
 
 ---
 
-Listed below are some of the [[Project|projects]] that I have contributed to for quick reference:
+## [[Project|Projects]]
+Listed below are some of the projects that I have contributed to for quick reference:
 ### [[Churpi]]
 ![[hntfewyj_shot.jpg]]
 
