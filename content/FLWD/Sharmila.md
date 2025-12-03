@@ -1,3 +1,6 @@
+---
+date: 2023-01-01
+---
 ### Final Render
 Some of the shots of the character from the project.
 ![[Sharmila shot 001.webp]]
