@@ -1,8 +1,6 @@
 ---
 Type: "[[Project]]"
 title: FWLD
-tags:
-  - Project
 date: 2023-01-01
 ---
 ## [[Sharmila]]
