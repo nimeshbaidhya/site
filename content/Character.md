@@ -2,7 +2,7 @@
 aliases:
   - character
 ---
-### [[Wizard]]
+## [[Wizard]]
 ![[unkxeymw_dhaami.jpg]]
 
 ## [[Ant]]
