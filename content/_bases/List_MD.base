@@ -8,8 +8,6 @@ views:
       - file.name
       - file.folder
       - Type
-      - file.backlinks
-      - file.links
     sort:
       - property: file.folder
         direction: ASC
