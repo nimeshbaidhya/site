@@ -2,6 +2,7 @@
 aliases:
   - character
 ---
+These are some of the characters I have worked on from various projects. 
 ## [[Ant]]
 ![[hntfewyj_shot.jpg]]
 
