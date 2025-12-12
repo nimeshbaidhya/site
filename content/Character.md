@@ -14,3 +14,6 @@ These are some of the characters I have worked on from various projects.
 
 ## [[Golem]]
 ![[znnfaudr_golem.jpg]]
+
+## [[Kisame Hoshikage]]
+![[kisame_render_final.jpg]]
