@@ -1,3 +1,6 @@
+---
+date: 2021-02-05
+---
 
 ![[unkxeymw_dhaami.jpg]]
 

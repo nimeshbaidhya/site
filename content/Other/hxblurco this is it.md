@@ -1,6 +1,6 @@
 ---
 title: This is it
-permalink: /hxblurco/
+permalink: /hxblurcos/
 ---
 
 This is the content of the page

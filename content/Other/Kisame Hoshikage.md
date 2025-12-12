@@ -1,3 +1,6 @@
+---
+date: 2020-01-25
+---
 ![[kisame_render_final.jpg]]
 
 ## Model in Zbrush
