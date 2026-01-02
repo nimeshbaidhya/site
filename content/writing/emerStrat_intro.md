@@ -23,4 +23,4 @@ The dissertation will start by looking into emergent strategy in depth and will 
 
 
 ---
-Next : [[emerStrat_litRev]]
+Next : [[emerStrat_litRev|Literature Review]]

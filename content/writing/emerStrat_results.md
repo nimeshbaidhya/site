@@ -81,4 +81,4 @@ This shows the learning and adaptive nature of the company in the face of advers
 
 ---
 
-Next: [[emerStrat_conclusion]]
+Next: [[emerStrat_conclusion|Conclusion]]

@@ -65,4 +65,4 @@ Additionally, validity and reliability are crucial components of research and ar
 
 ---
 
-Next: [[emerStrat_results]]
+Next: [[emerStrat_results|Results]]

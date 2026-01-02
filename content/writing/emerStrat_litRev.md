@@ -72,4 +72,4 @@ The importance of power and influence grows even more when organisations become 
 Additionally, when everyone in an organization has decision-making power, it can lead to chaos and balancing decentralized decision-making with unified strategic action within a single company can be quite challenging (Gadiesh & Gilbert, 2001). Child (2015) claims that sometimes, lack of clear roles and priorities can lead to problems in flat hierarchy.
 
 ---
-Next: [[emerStrat_methodology]]
+Next: [[emerStrat_methodology|Methodology]]
