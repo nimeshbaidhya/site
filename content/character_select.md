@@ -1,5 +1,6 @@
 ---
 title: Character
+permalink: /Character
 ---
 These are some of the characters I have worked on from various projects. 
 ## [[churpi_ant|Ant]]
