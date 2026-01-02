@@ -6,23 +6,23 @@ Welcome to my site.
 
 You can see some of my works below. I have categorised them based on characters and environment. You can click the relevant link which interests you.
 
-## [[Character|Characters]]
-![[WebCover_char.jpg]]
+## [[character_select|Characters]]
+![[character_cover.jpg]]
 
-## [[Environment|Environments]]
-![[wdefdjzm_hongshi_monument.jpg]]
+## [[environment-select|Environments]]
+![[hongshi_monument_main.jpg]]
 
 
 
 ---
 
-## [[Project|Projects]]
+## [[projects-select|projects-select]]
 Listed below are some of the projects that I have contributed to for quick reference:
-### [[Churpi]]
-![[hntfewyj_shot.jpg]]
+### [[churpi]]
+![[churpi_ant_render_shot.jpg]]
 
-### [[Hongshi]]
-![[unkxeymw_dhaami.jpg]]
+### [[hongshi]]
+![[hongshi_dhaami_cover.jpg]]
 
-### [[FWLD]]
-![[Sharmila shot 001.webp]]
+### [[fwld]]
+![[fwld_sharmila_shot_01.webp]]
