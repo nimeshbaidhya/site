@@ -1,5 +1,5 @@
 ---
-Type: "[[projects-select]]"
+Type: "[[projects_select]]"
 title: FWLD
 date: 2023-01-01
 ---

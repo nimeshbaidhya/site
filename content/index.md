@@ -9,14 +9,14 @@ You can see some of my works below. I have categorised them based on characters 
 ## [[character_select|Characters]]
 ![[character_cover.jpg]]
 
-## [[environment-select|Environments]]
+## [[environment_select|Environments]]
 ![[hongshi_monument_main.jpg]]
 
 
 
 ---
 
-## [[projects-select|projects-select]]
+## [[projects_select|projects_select]]
 Listed below are some of the projects that I have contributed to for quick reference:
 ### [[churpi]]
 ![[churpi_ant_render_shot.jpg]]
